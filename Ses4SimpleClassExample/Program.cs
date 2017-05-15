@@ -11,9 +11,10 @@ namespace Ses4SimpleClassExample
             //Car c2 = new Car("Daisy", 75);
             //c2.PrintState();
             //Use of the default constructor
-            Motorcycle m = new Motorcycle();
-            m.PopAWheely();
-            Console.ReadLine();
+            //Motorcycle m = new Motorcycle();
+            //m.PopAWheely();
+            //Console.ReadLine();
+
         }
     }
 }
